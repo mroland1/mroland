@@ -26,7 +26,7 @@ function Profile({ onContactClick }) {
     smoothScrollToTop();
     setTimeout(() => {
       onContactClick();
-    }, 200); // Increased delay to ensure scroll is fully completed
+    }, 300); // Increased delay to ensure scroll is fully completed
   };
 
   const { t } = useTranslation();
