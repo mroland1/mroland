@@ -5,7 +5,7 @@ const resources = {
   en: {
     translation: {
       profile: {
-        greeting: `23-year-old junior frontend developer from Hungary👋<br />Passionate about exploring new technologies and finding creative solutions.🤩`,
+        greeting: `24-year-old junior frontend developer from Hungary👋<br />Passionate about exploring new technologies and finding creative solutions.🤩`,
         position: "Junior Frontend Developer",
         contact: "Contact",
         download_cv: "Download CV",
@@ -41,7 +41,7 @@ const resources = {
     translation: {
       profile: {
         greeting:
-          "23 éves junior frontend fejlesztő vagyok👋<br />Szenvedélyesen fedezek fel új technológiákat és keresek kreatív megoldásokat.🤩",
+          "24 éves junior frontend fejlesztő vagyok👋<br />Szenvedélyesen fedezek fel új technológiákat és keresek kreatív megoldásokat.🤩",
         position: "Junior Frontend Fejlesztő",
         contact: "Kapcsolat",
         download_cv: "Önéletrajz",
